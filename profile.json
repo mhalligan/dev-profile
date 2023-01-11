@@ -1,10 +1,9 @@
 {
   "email": { "address": "noreply@nomadops.io" },
   "blog": "https://myblog.com/" ,
-  "github": "cruftyoldsysadmin" ,
-  "gpg_keys": "https://keybase.io/cruftyoldsysadmin/pgp_keys.asc" ,
-  "keybase":  "https://keybase.io/cruftyoldsysadmin" ,
-  "linkedin":  "https://linkedin.com/in/cruftyoldsysadmin",
+  "github": "mhalligan" ,
+  "gpg_keys": "https://keybase.io/mhalligan/pgp_keys.asc" ,
+  "keybase":  "https://keybase.io/mhalligan" ,
   "podcast": "https://podcast.podcast/cruftyoldsysadmin",
   "slack":  "https://mhalligan.slack.com/",
   "terraform_registy": "https://registry.terraform.io/users/nomadops" ,
