@@ -4,7 +4,7 @@
   "github": "mhalligan" ,
   "gpg_keys": "https://keybase.io/mhalligan/pgp_keys.asc" ,
   "keybase":  "https://keybase.io/mhalligan" ,
-  "podcast": "https://podcast.podcast/cruftyoldsysadmin",
+  "podcast": "https://podcast.podcast/mhalligan",
   "slack":  "https://mhalligan.slack.com/",
   "terraform_registy": "https://registry.terraform.io/users/mhalligan" ,
   "twitter": "nomadopsio",
@@ -16,9 +16,9 @@
       "description": "Terraform module to provision driftctl."
     }
   ],
-  "headline": "Very Senior DevOps pipeline and Infrastructure as Code (IAC) consulting.",
+  "headline": "Testing out some features",
   "industries": [ "startups", "cloud" ],
-  "job_title": " Very Senior DevOps Engineer",
+  "job_title": "  Engineer",
   "keywords": [
     "terraform",
     "terragrunt",
@@ -36,10 +36,10 @@
     "pulumi",
     "golang"
   ],
-  "long_summary": "I have been working with production infrastructure for about 25 years. My primary interests are implementing DevOps pipelines with Infrastructure as Code. I love working with AWS Terraform/Terragrunt, Kubernetes and Golang. ",
-  "name": "Cruftyold Sysadmin",
-  "profile_image": "https://avatars.githubusercontent.com/u/20204452?v=4",
-  "short_summary": "Infrastructure as code consulting.",
+  "long_summary": "Engineer",
+  "name": "Michael T. Halligan",
+  "profile_image": "https://avatars.githubusercontent.com/u/163042?v=4",
+  "short_summary": "DevOps.",
   "languages": [
     { "name": "English", "level": "native" }
   ],
